@@ -1,0 +1,9 @@
+./node_modules/
+./reports/
+node_modules
+reports
+allure-report
+.env
+logs
+.DS_Store
+package-lock.json
